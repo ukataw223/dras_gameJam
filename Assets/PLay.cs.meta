@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 12f076f63d413435595d3d754ac261a3
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - examation: {instanceID: 0}
+  - student: {instanceID: 0}
+  - teachar: {instanceID: 0}
+  - fault_p1: {instanceID: 0}
+  - fault_p2: {instanceID: 0}
+  - student_damage: {fileID: 2800000, guid: 0c4b7e57cd73348f28cd6bc718d385af, type: 3}
+  - student_guard: {fileID: 2800000, guid: 26b9db098129c42c4bbf4e4a6590183d, type: 3}
+  - student_sleep: {fileID: 2800000, guid: dc503ff052adb43d99181eb2f232c100, type: 3}
+  - teachar_attack: {fileID: 2800000, guid: e0a368cf1979d48c8935915cf3344c78, type: 3}
+  - teachar_check: {fileID: 2800000, guid: f24dac95b1026424bbb42b4c20185191, type: 3}
+  - teachar_wait: {fileID: 2800000, guid: 360d7dba5922245e598f82c99f17a41a, type: 3}
+  - ex: {instanceID: 0}
+  - gu: {instanceID: 0}
+  - da: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
